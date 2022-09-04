@@ -30,5 +30,3 @@ Can be found in the folder results in this reposity. Plots generated using the n
 3) The overall reaction probability is around 4-12%
 
 4) The most used emoji for react, by far, is 😆
-
-5) Still need to fix the matplotlib emoji encoding
