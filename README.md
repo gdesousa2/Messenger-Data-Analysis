@@ -19,6 +19,9 @@ Facebook/Meta conversation as JSON files downloaded from [here](https://www.face
 ### Results:
 Can be found in the folder results in this reposity. Plots generated using the notebook also in this repository.
 
+### To-Do list:
+1) Fix the emoji encoding to plot the results using matplotlib
+
 ### Key points:
 1) We are more active after 10am with message peaking around 8-9pm
 
