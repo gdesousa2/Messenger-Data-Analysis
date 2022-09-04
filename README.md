@@ -16,6 +16,9 @@ os, pandas, numpy, matplotlib, json and datetime
 ### Input data:
 Facebook/Meta conversation as JSON files downloaded from [here](https://www.facebook.com/help/212802592074644/?helpref=uf_share)
 
+### Results:
+Can be found in the folder results in this reposity. Plots generated using the notebook also in this repository.
+
 ### Key points:
 1) We are more active after 10am with message peaking around 8-9pm
 
