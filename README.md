@@ -7,6 +7,12 @@ This simple analysis focus on the time statistics for each participant: how much
 
 I also considered the 'react' dynamics (emojis that one can react to messagens among ourselves): who reacted more, who gets more reacts and how the participants reacted among themselves.
 
+### Language:
+Python
+
+### Libraries used:
+os, pandas, numpy, matplotlib, json and datetime
+
 ### Key points:
 1) We are more active after 10am with message peaking around 8-9pm
 
